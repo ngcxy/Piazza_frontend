@@ -1,2 +1,3 @@
-1. install dependencies: `npm install`
-2. run the frontend: `npm start`
+1. keep the backend running
+2. install dependencies: `npm install`
+3. run the frontend: `npm start`
